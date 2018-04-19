@@ -1,0 +1,53 @@
+#Buttons {
+	margin: auto;
+	text-align: center;
+}
+button {
+	font-size: 2vw;
+	border-radius: 10px 10px;
+	margin: 50px;
+	padding: 5px 30px;
+	background-color: green;
+	border-color: white;
+	border-width: 3px;
+	color: white;
+	font-family: 'Playfair Display', serif;
+}
+#bg {
+	background-image: url(Images/MNT.jpg);
+	background-repeat: no-repeat cover cover fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100%;
+	width: 100vw;
+
+}
+h1 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: brown;
+	text-align: center;
+	font-size: 3vw;
+}
+h2 {
+	font-family: 'Playfair Display', serif;
+}
+h3 {
+	font-family: 'Playfair Display', serif;
+	font-style: italic;
+}
+h5 {
+	font-family: 'Playfair Display', serif;
+	color: white;
+	text-align: center;
+}
+ul {
+	list-style: none;
+}
+
+
+
+
+
